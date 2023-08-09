@@ -9,3 +9,7 @@ lib_dir: "lib"  # dll directory path
 output: "out.log"  # exe output file, if "" will use stdout
 keep_alive: False  # Does it survive after starting the exe process
 ```
+usage:
+```shell
+cargo build --release
+```
