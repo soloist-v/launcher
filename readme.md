@@ -1,4 +1,4 @@
-### 一个简单的启动器
+### A simple launcher
 Resolve Windows DLL shell issues.   
 Customizable DLL folder  
 cfg:
