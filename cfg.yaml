@@ -1,0 +1,5 @@
+executable: "test.exe"
+args: [ ]
+lib_dir: "lib"
+output: "out.log"
+keep_alive: False
