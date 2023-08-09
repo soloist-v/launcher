@@ -1,5 +1,5 @@
 ### A simple launcher
-Resolve Windows DLL shell issues.   
+Resolve the Windows dll hell.   
 Customizable DLL folder  
 cfg:
 ```yaml
